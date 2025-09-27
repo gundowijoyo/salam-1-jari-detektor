@@ -91,6 +91,7 @@ salam-1-jari-detektor/
 Proyek oleh [Gundo Wijoyo]
 Menggunakan MediaPipe oleh Google, gTTS, dan OpenCV
 
-> "Salam 1 jari, salam perkenalan!"
-> Kalo ada error inpo-inpo
+"Salam 1 jari, salam perkenalan!"
+"Kalo ada error inpo-inpo"
+
 MIT License bebas kalian gunakan :)

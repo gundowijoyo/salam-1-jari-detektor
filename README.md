@@ -16,7 +16,7 @@ Deteksi gestur tangan "salam 1 jari" (telunjuk terangkat) secara real-time mengg
 1. **Clone repository ini**
 
 ```bash
-git clone https://github.com/username/salam-1-jari-detektor.git
+git clone https://github.com/gundowijoyo/salam-1-jari-detektor.git
 cd salam-1-jari-detektor
 ````
 
@@ -92,3 +92,5 @@ Proyek oleh [Gundo Wijoyo]
 Menggunakan MediaPipe oleh Google, gTTS, dan OpenCV
 
 > "Salam 1 jari, salam perkenalan!"
+
+MIT License bebas kalian gunakan :)

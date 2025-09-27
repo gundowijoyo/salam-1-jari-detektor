@@ -1,0 +1,4 @@
+opencv-python>=4.5.0
+mediapipe>=0.10.0
+gTTS>=2.3.0
+playsound==1.2.2
